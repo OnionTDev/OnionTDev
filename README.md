@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1 data-importer="text" align="left">Olá, eu sou o OnionT!</h1>
 
-<!--
-**OnionTDev/OnionTDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p data-importer="text" align="left">Sou um desenvolvedor front-end focado em  evoluir minhas habilidades práticas e escrever códigos eficientes e estruturados.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 data-importer="text" align="left">Sobre mim</h2>
+
+###
+
+<p data-importer="text" align="left">* Focado em desenvolvimento web moderno.<br>* Apaixonado por interfaces Dark Mode e estéticas Neon Violeta.<br>* Em constante aprendizado, aprimorando lógica e design.</p>
+
+###
+
+<h2 data-importer="text" align="left">Tecnologias e Ferramentas</h2>
+
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+</div>
+
+###
+
+<h2 data-importer="text" align="left">Me encontre</h2>
+
+###
+
+<div data-importer="socials" align="left">
+  <a href="https://www.instagram.com/gusszz.s?rpxt=MnNoOTMyMjJ2ZHJv" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+</div>
+
+###
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/OnionTDev/OnionTDev/snake-output/snake.svg" alt="Snake animation" />
+
+###
