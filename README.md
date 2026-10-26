@@ -2,10 +2,6 @@
 
 ###
 
-<p data-importer="text" align="left">Sou um desenvolvedor front-end focado em  evoluir minhas habilidades práticas e escrever códigos eficientes e estruturados.</p>
-
-###
-
 <h2 data-importer="text" align="left">Sobre mim</h2>
 
 ###
