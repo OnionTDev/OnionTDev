@@ -1,10 +1,4 @@
-<h1 data-importer="text" align="left">Olá, eu sou o OnionT!</h1>
-
-###
-
-<h2 data-importer="text" align="left">Sobre mim</h2>
-
-###
+<h1 data-importer="text" align="left">Sobre Mim</h1>
 
 <p data-importer="text" align="left">* Focado em desenvolvimento web moderno.<br>* Apaixonado por interfaces Dark Mode e estéticas Neon Violeta.<br>* Em constante aprendizado, aprimorando lógica e design.</p>
 
